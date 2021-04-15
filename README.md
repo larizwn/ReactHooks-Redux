@@ -1,4 +1,4 @@
-# ReactHooks-Redux
+# React Hooks e Redux
 
 Redux é uma biblioteca JavaScript criada para resolver um problema inerente de aplicações front-end conforme elas crescem em tamanho e complexidade.
 
